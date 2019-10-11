@@ -9,7 +9,7 @@ Using JAVA, Maven project and MongoDB
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
+## Contact
 
 * Team Member: Yueh-Lin Tsou (Hank)
 * Team Member: Tho Nguyen (Todd)
